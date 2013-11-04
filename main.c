@@ -39,7 +39,7 @@ usage(char *argv0)
 }
 
 int
-main(int argc, char **argv)
+polipo_main(int argc, char **argv)
 {
     FdEventHandlerPtr listener;
     int i;
